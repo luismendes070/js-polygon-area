@@ -1,4 +1,4 @@
-# poligonosapp-jquery
+# js-polygon-area
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-tjsy5g)
 
